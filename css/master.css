@@ -1,3 +1,16 @@
 .navbar-dark {
   background-color: #00a4e4 !important;
 }
+
+#home {
+  background: url("../img/home-bg.jpg");
+  height: calc(100vh - 56px);
+  width: 100%;
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.img-fluid{
+  width: 100%;
+  height: auto;
+}

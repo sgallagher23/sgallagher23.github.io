@@ -40,3 +40,15 @@ h1,h2,h3,h4,h5 {
   width: 100%;
   height: auto;
 }
+
+#experience {
+  padding: 32px 0px !important;
+  background-color: #00a4e4;
+  color: white;
+}
+
+#resume {
+  padding: 32px 0px !important;
+  background-color: #00a4e4;
+  color: white;
+}
